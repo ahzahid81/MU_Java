@@ -18,7 +18,7 @@ public class CheckboxFrame extends JFrame
       super( "JCheckBox Test" );
       setLayout( new FlowLayout() );
 
-      textField = new JTextField( "Shafat is coding in Java.", 30 );
+      textField = new JTextField( "Zahid is coding in Java.", 30 );
       textField.setFont( new Font( "Serif", Font.PLAIN, 24 ) );
       add( textField );
 
